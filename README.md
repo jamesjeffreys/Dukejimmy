@@ -23,8 +23,6 @@
 
 - 👨‍💻 All of my projects are available on [my website](https://iso-tech-webdev.netlify.app/)
 
- 
-
 
 
 
