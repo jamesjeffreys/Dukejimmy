@@ -1,7 +1,7 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
 <h1 align="center">Hi 👋, I'm James Jeffreys</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dukejimmy&label=Profile%20views&color=0e75b6&style=flat" alt="dukejimmy" /> </p>
-<h3 align="center">A passionate software engineer based in the U.K.</h3>
+<h3 align="center">A passionate, detailed oriented software engineer with a keen interest in FinTech</h3>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
